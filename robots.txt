@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://soho303ads.zipcpu.com/sitemap.xml
+Sitemap: http://soho303adspuh.zipcpu.com/sitemap.xml
