@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://soho303ads.zipcpu.com/sitemap.xml
